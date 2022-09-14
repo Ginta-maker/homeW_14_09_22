@@ -1,0 +1,35 @@
+.form {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+label {
+    color: rgb(154, 133, 133);
+    font-weight: bold;
+}
+
+input {
+    border: 1px solid rgb(218, 196, 200);
+    border-top: none;
+    padding: 5px 10px;
+    margin: 5px 25px;
+}
+
+button {
+    color: rgb(94, 37, 37);
+    background-color: rgb(176, 163, 163);
+    border: none;
+    border-radius: 20px;
+    padding: 8px;
+    margin: 15px 50px;
+}
+
+li {
+    color: rgb(95, 70, 70);
+    font-size: 1.2em;
+    line-height: 40px;
+    margin: 0 30px;
+    text-decoration: underline;
+}
